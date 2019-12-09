@@ -1,3 +1,7 @@
+# 用途
+
+なんか動かしながら学びたいなーってとき、master からブランチきってすぐ作れるようにする
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
